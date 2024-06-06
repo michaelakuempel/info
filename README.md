@@ -1,2 +1,2 @@
-# info
-Personal info page of Michaela Kümpel
+# Personal info page of Michaela Kümpel
+
