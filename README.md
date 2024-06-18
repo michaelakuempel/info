@@ -1,2 +1,2 @@
-# Personal info page of Michaela Kümpel
+# Personal info page of <br> <it>Michaela Kümpel</it>
 
