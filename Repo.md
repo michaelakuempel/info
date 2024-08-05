@@ -13,7 +13,9 @@ layout: default
 
 <h2>Knowledge Graphs</h2>
 
-<p></p>
+<p><ul><li><a href="https://michaelakuempel.github.io/ProductKG/">Product KG</a>: My product knowledge graph website with all necessary sources and API to access the graph for applications.</li>
+<li><a href="http://productkg.informatik.uni-bremen.de/">Product KG application page</a>: My product knowledge graph application website with many applications, such as a nutrition recommender or a recipe recommender and a product ingredient analysis.</li>
+<li><a href="https://triplydb.com/kording/-/datasets">triply DB</a>: On triply you can access my knowledge graphs.</li></ul></p>
 
 <hr>
 
