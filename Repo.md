@@ -21,13 +21,18 @@ layout: default
 
 <h2>Teaching</h2>
 
-<p></p>
+<p><ul><li><a href="https://github.com/michaelakuempel/ActionableKnowledgeRepresentation">Tutorial material for AKR class</a>: Here you can find the Tutorial material for my lecture "Actionable Knowledge Representation".</li>
+  <li><a href="https://github.com/michaelakuempel/ease_fs_kg_2022">Fall School 22</a>: At the EASE fall school 22 I gave a Hands-On Tutorial on Creating Knowledge Graphs.</li></ul></p>
 
 <hr>
 <h2>Augmented Reality Apps</h2>
 
-<p></p>
+<p><ul><li><a href="https://github.com/michaelakuempel/HoloPreferenceDemo">HoloLens Shopping App</a>: In this repo you find the source code for an AR app developed for the HoloLens that accesses the product kg to provide you with information (such as allergens, ingredients and labels) about products in shelves.</li>
+  <li><a href="https://github.com/michaelakuempel/substitute-app">Smartphone Subsitute App</a>: In this repo you find the source code for an app that accesses the product kg to provide you with information about substitute ingredients in recipes.</li>
+  <li><a href="https://github.com/michaelakuempel/WikidataMuseum">Smartphone Museum App</a>: In this repo you find the source code for an app that recognises images to then access wikidata for information about the recognised image and display it in AR.</li></ul></p>
 
 <hr>
 
 <h2>Helper repos</h2>
+
+<p><ul><li><a href="https://github.com/michaelakuempel/Unity-REST-KG">REST call in Unity</a>: In this repo you find an example source code to access a knowledge graph via REST using Unity.</li></ul></p>
